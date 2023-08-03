@@ -1,3 +1,3 @@
 # Git and GitHub Lab
-Repo to experiment with git and github
+Repo to experiment with git and github actions
 
