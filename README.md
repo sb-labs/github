@@ -1,2 +1,2 @@
-# GutHub Actions
+# GitHub Actions
 R&D Sandpit
