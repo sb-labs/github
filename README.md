@@ -1,3 +1,2 @@
-# Git and GitHub Lab
-Repo to experiment with git and github actions
-
+# GutHub Actions
+R&D Sandpit
